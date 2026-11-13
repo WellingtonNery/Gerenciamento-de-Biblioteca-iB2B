@@ -23,8 +23,8 @@ Trabalho prático de **Modelagem de Sistemas Computacionais** (PUCPR, Prof. Edso
 
 ## Equipe
 
-| Integrante | 
-|---|---|
+| Integrante |
+|---|
 | João Pedro Muller Spielmann |
 | Wellington Nery Gonçalves da Costa |
 
