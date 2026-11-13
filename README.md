@@ -28,8 +28,6 @@ Trabalho prático de **Modelagem de Sistemas Computacionais** (PUCPR, Prof. Edso
 | João Pedro Muller Spielmann |
 | Wellington Nery Gonçalves da Costa |
 
-Equipe de até 4 integrantes.
-
 ## Visão geral
 
 A empresa iB2B utiliza um sistema desenvolvido pela BCC2022. Os componentes **Acadêmico, RH, Biblioteca e Financeiro** comunicam-se por interfaces; o banco é externo. Este projeto implementa o componente de biblioteca e sua integração com o financeiro, preservando os tratadores, a delegação e os pontos internos de acesso **Acervo**, **Relacionamento** e **Movimentacao** definidos no Trabalho 02.
