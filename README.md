@@ -23,9 +23,10 @@ Trabalho prático de **Modelagem de Sistemas Computacionais** (PUCPR, Prof. Edso
 
 ## Equipe
 
-| Integrante | Matrícula |
+| Integrante | 
 |---|---|
-| _a preencher_ | _a preencher_ |
+| João Pedro Muller Spielmann |
+| Wellington Nery Gonçalves da Costa |
 
 Equipe de até 4 integrantes.
 
