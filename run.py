@@ -1,9 +1,7 @@
-from decimal import Decimal, ROUND_HALF_UP
+"""Ponto de entrada da aplicação web (Sprint 6)."""
 
-
-def print_hi(name):
-    print(f'Hi, {name}')
-
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
+if __name__ == "__main__":
+    raise SystemExit(
+        "A interface web será implementada na Sprint 6. "
+        "Por enquanto, valide o projeto com: pytest"
+    )
